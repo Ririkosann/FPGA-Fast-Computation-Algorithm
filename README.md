@@ -1,8 +1,10 @@
 In this section, the following algorithms can be implemented.
 
-Simple implementation
-Karatsuba operations
-Schönhage-Strassen
+①Simple implementation
+
+②Karatsuba operations
+
+③Schönhage-Strassen
 
 How to do
 
