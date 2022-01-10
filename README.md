@@ -12,6 +12,9 @@ If you do not have Vivado installed, install it, download the file, and load it.
 
 If you don't have a testbench file, please create one by assigning values.
 
-If you have not installed Vivado, you can install it, download the file, and load it.
+
+Since the performance of the FPGA is medium, only a simulator will be implemented for SSA.
+
+
 
 
